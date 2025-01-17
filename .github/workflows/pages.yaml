@@ -57,11 +57,12 @@ jobs:
         run: |
           hugo \
             --gc --minify \
-            --baseURL "https://handbook.osc.to/"          
+            --baseURL "https://handbook.osc.to/" \
+            handbook/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./handbook/public
 
   # Deployment job
   deploy:
