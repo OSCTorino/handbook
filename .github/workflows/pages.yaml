@@ -58,6 +58,7 @@ jobs:
         run: |
           hugo build \
             --gc --minify \
+            --buildDrafts \
             --baseURL "https://handbook.osc.to/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
