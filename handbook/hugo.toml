@@ -1,6 +1,6 @@
 baseURL = 'https://handbook.osc.to/'
 languageCode = 'en-us'
-title = 'The Open Science Community Torino Handbook'
+title = 'The OSC Torino Handbook'
 
 defaultContentLanguage = "en"
 
@@ -55,4 +55,15 @@ url = "https://github.com/OSCTorino/handbook"
 
   [menu.main.params]
   icon = "github"
+
+[params.navbar]
+displayTitle = true
+displayLogo = true
+
+[params.navbar.logo]
+path = "images/logo.svg"
+dark = "images/logo-dark.svg"
+link = "/"
+width = 40
+height = 20
 
