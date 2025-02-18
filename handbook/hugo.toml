@@ -44,24 +44,47 @@ lang = 'en'
         disable = false
 
 [[menu.main]]
-name = "Documentation"
-pageRef = "/docs"
+name = "Data Management"
+pageRef = "/data_management"
 weight = 1
 
 [[menu.main]]
-name = "Search"
+name = "Data Analysis"
+pageRef = "/data_analysis"
 weight = 2
+
+[[menu.main]]
+name = "Open Science"
+pageRef = "/open_science"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "https://osc-international.com/osc-torino/"
+weight = 4
+
+[[menu.main]]
+name = "Search"
+weight = 5
 
   [menu.main.params]
   type = "search"
 
 [[menu.main]]
 name = "GitHub"
-weight = 3
+weight = 6
 url = "https://github.com/OSCTorino/handbook"
 
   [menu.main.params]
   icon = "github"
+
+[[menu.main]]
+name = "Discord"
+weight = 7
+url = "https://discord.gg/Sv9BCTsXDh"
+
+  [menu.main.params]
+  icon = "discord"
 
 [params.navbar]
 displayTitle = true
@@ -74,3 +97,6 @@ link = "/"
 width = 40
 height = 20
 
+[params.editURL]
+enable = true
+base = "https://github.com/OSCTorino/handbook/edit/main"
