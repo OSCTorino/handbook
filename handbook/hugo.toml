@@ -31,6 +31,13 @@ source = 'content/en'
 target = 'content'
 lang = 'it'
 
+# The Italian content is used for English pages
+# if the english correspondence is missing
+[[module.mounts]]
+source = 'content/it'
+target = 'content'
+lang = 'en'
+
 [module]
     [[module.imports]]
         path = "github.com/imfing/hextra"
