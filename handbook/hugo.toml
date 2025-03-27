@@ -49,13 +49,13 @@ pageRef = "/data_management"
 weight = 1
 
 [[menu.main]]
-name = "Data Analysis"
-pageRef = "/data_analysis"
+name = "Open Science"
+pageRef = "/open_science"
 weight = 2
 
 [[menu.main]]
-name = "Open Science"
-pageRef = "/open_science"
+name = "Meta"
+url = "/meta"
 weight = 3
 
 [[menu.main]]
