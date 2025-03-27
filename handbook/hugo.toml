@@ -99,4 +99,4 @@ height = 20
 
 [params.editURL]
 enable = true
-base = "https://github.com/OSCTorino/handbook/edit/main/handbook"
+base = "https://github.com/OSCTorino/handbook/edit/main/handbook/content"
