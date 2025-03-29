@@ -18,6 +18,8 @@ Questo non vuol dire, pero', che non ci siano richieste per chi e' membro del wo
 Una volta membro e registrato su Discord, puoi entrare sul Workgroup andando su Discord, nel canale "Canali e Ruoli" (in alto nella lista).
 Troverai una sezione chiamata "Clicca qui per entrare (o uscire) dal Workgroup!". Basta premere il pulsante "Entra nel Workgroup!" per ricevere il ruolo e vedere i canali associati al workgroup.
 
+Se per caso il pulsante e' gia' selezionato, deselezionalo e selezionalo di nuovo. Dovresti ricevere correttamente il ruolo.
+
 ## Come esco dal Workgroup?
 Se non sei piu' interessato a partecipare come membro del Workgroup, grazie per aver partecipato!
 
@@ -25,10 +27,20 @@ Puoi rimuoverti in autonomia seguendo gli stessi step che hai usato per entrare:
 
 Se per caso il pulsante non e' selezionato, prima selezionalo e poi deselezionalo: il ruolo verra' correttamente tolto.
 
+## Per quanto tempo posso fare parte del workgroup?
+Per quanto tempo desideri!
+
+Attenzione, pero', che i membri del workgroup devono essere relativamente attivi all'interno di esso.
+Tempi molto lunghi (e.g. un mese) senza controllare o partecipare alle discussioni del workgroup potrebbe far si' che un coordinatore ti rimuova dal workgroup.
+Se succede, non ti preoccupare! E' fatto solo per mantenere "aggiornata" la lista di membri che sono interessati a partecipare all'organizzazione delle iniziative.
+Anche se sei manualmente rimosso, puoi tornare nel workgroup quando desideri seguendo di nuovo le istruzioni del paragrafo "Come entro nel Workgroup?".
+
 ## Organizzarsi come Workgroup
 
 Per organizzare eventi e altre cose da fare usiamo un canale Discord specifico: `#osct-to-do`. Se vuoi proporre un'idea o aiutare qualcun'altro, basta creare un post o partecipare ad una conversazione gia' esistente.
 
 Se sei cortese e disponibile, e' molto probabile che il tuo aiuto sia ben accetto!
 
+Puoi trovare una [guida su come proporre nuovi eventi qui](/organising_events.md).
 Per qualsiasi domanda, contattate un Coordinatore.
+
