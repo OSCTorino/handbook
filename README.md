@@ -79,6 +79,7 @@ Ready to start contributing? Create a new page or edit one today!
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://mrhedmad.github.io/blog/"><img src="https://avatars.githubusercontent.com/u/46203625?v=4?s=100" width="100px;" alt="Luca "Hedmad" Visentin"/><br /><sub><b>Luca "Hedmad" Visentin</b></sub></a><br /><a href="#code-MrHedmad" title="Code">💻</a> <a href="#content-MrHedmad" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ilariastura"><img src="https://avatars.githubusercontent.com/u/168740729?v=4?s=100" width="100px;" alt="ilariastura"/><br /><sub><b>ilariastura</b></sub></a><br /><a href="#content-ilariastura" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
