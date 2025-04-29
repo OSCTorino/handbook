@@ -1,5 +1,7 @@
 # The Open Science Community Torino Handbook
 
+[![All Contributors](https://img.shields.io/github/all-contributors/OSCTorino/handbook?color=ee8449&style=flat-square)](#contributors)
+
 *Questo README e' disponibile in italiano [qui](https://github.com/OSCTorino/handbook/tree/main/docs/README-it.md)*
 
 Welcome to the repository for the OSCT Handbook.
@@ -68,3 +70,13 @@ All other parameters (and more!) can be seen in the [Hugo manual](https://gohugo
 ### Start contributing
 Ready to start contributing? Create a new page or edit one today!
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
